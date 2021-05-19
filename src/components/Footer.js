@@ -49,7 +49,7 @@ const Footer = () => {
             </div>
           </Col>
           <Col>
-            <p>@2021 by SIRIS</p>
+            <p>@2021 by LT</p>
             <p>Created with React</p>
           </Col>
         </Row>
