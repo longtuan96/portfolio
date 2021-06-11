@@ -15,24 +15,24 @@ const Projects = () => {
       >
         Projects
       </p>
-      <ProjectBlock
-        title="SIRIS FOOD"
+      {/* <ProjectBlock
+        title="FOOD Web"
         paragraph="This is a project that i made during the course in CoderSchool to showcase my understanding in building a full-stack website. Below are the Netlify link for demo and Github for the source code."
         image={"images/project_1.png"}
-        netlifyLink={"https://siris-food.netlify.app"}
+        netlifyLink={"https://siris-food-v1.netlify.app"}
         githubLink={"https://github.com/longtuan96/w9weekly_ecom_frontend"}
-      />
+      /> */}
 
       <ProjectBlock
-        title="The Movie DB"
+        title="The Movie Web"
         paragraph="This is a movie website using the API from MovieDB where you can search for information about movies. Below are the Netlify link for demo and Github for the source code. "
         image={"images/project_2.png"}
-        netlifyLink={"https://siris-movie.netlify.app"}
+        netlifyLink={"https://moviedb-v1.netlify.app"}
         githubLink={"https://github.com/longtuan96/W5WeeklyProject-Movies"}
       />
 
       <ProjectBlock
-        title="SIRIS Social Blog"
+        title="Social Blog"
         paragraph="A Social Blog inspired by Twitter. Below are the Netlify link for demo and Github for the source code. "
         image={"images/project_3.png"}
         netlifyLink={"https://siris-socialblogs.netlify.app"}
@@ -40,7 +40,7 @@ const Projects = () => {
       />
 
       <ProjectBlock
-        title="SIRIS Missle Game"
+        title="Missle Game"
         paragraph="A missle game where the player have to launch missle to intercept incomming enemy missle. This game is built on HTML5 Canvas. Below are the Netlify link for demo and Github for the source code. "
         image={"images/project_4.png"}
         netlifyLink={"https://missile-game-v2.netlify.app/"}

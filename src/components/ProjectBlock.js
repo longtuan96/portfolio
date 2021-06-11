@@ -2,7 +2,6 @@ import React from "react";
 import { Row, Col } from "react-bootstrap";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faGithubAlt } from "@fortawesome/free-brands-svg-icons";
-import { faBalanceScale } from "@fortawesome/free-solid-svg-icons";
 
 const ProjectBlock = ({ title, paragraph, image, netlifyLink, githubLink }) => {
   return (
