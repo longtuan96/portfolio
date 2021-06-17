@@ -65,18 +65,14 @@ const Resume = () => {
               </p>
             </Col>
             <Col style={{}} className="d-flex justify-content-end">
-              <div style={{ width: "50%" }}>
-                <ul>
-                  <li>Team Leader</li>
-                  <li>Team work</li>
-                  <li>Good English</li>
-                  <li>Hard Working</li>
-                  <li>Experience in 3D drawing and PCB Design</li>
-                  <li>
-                    Experience in React (including react-router, thunk,...)
-                  </li>
-                </ul>
-              </div>
+              <ul>
+                <li>Team Leader</li>
+                <li>Team work</li>
+                <li>Good English</li>
+                <li>Hard Working</li>
+                <li>Experience in 3D drawing and PCB Design</li>
+                <li>Experience in React (including react-router, thunk,...)</li>
+              </ul>
             </Col>
           </Row>
         </div>

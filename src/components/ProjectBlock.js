@@ -33,7 +33,15 @@ const ProjectBlock = ({ title, paragraph, image, netlifyLink, githubLink }) => {
           </div>
         </Col>
         <Col className="d-flex justify-content-end">
-          <img src={image} alt="project" style={{ width: "80%" }} />
+          <img
+            src={image}
+            alt="project"
+            style={{
+              width: "100%",
+              objectFit: "cover",
+              height: "auto",
+            }}
+          />
         </Col>
       </Row>
     </>

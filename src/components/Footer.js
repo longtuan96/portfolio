@@ -25,8 +25,8 @@ const Footer = () => {
           <Col>
             <h4>Follow Me</h4>
             <div
-              className="d-flex justify-content-between"
-              style={{ width: "30%" }}
+              className="d-flex justify-content-around"
+              style={{ width: "100%" }}
             >
               <a
                 href="https://www.facebook.com/longtuan.tran.5"
