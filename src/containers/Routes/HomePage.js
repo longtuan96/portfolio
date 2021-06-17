@@ -21,9 +21,9 @@ const HomePage = () => {
             sm={12}
           >
             <img
-              src={"images/avatar.jpg"}
+              src={"images/IMG_0487.jpg"}
               alt="Avatar"
-              style={{ borderRadius: "50%", width: "80%" }}
+              style={{ borderRadius: "50%", width: "40%" }}
             />
           </Col>
           <Col lg={6} sm={12}>
