@@ -6,6 +6,7 @@ import {
   faGithubAlt,
   faLinkedinIn,
 } from "@fortawesome/free-brands-svg-icons";
+import { faLaptop } from "@fortawesome/free-solid-svg-icons";
 const Footer = () => {
   return (
     <>
@@ -20,6 +21,10 @@ const Footer = () => {
           <Col>
             <h4>Email</h4>
             <p>longtuan03@gmail.com</p>
+          </Col>
+          <Col style={{ textAlign: "center" }}>
+            <FontAwesomeIcon icon={faLaptop} />
+            <p>Kindly use Pc for the best experience</p>
           </Col>
 
           <Col>
